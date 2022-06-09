@@ -1,0 +1,105 @@
+﻿<Window x:Class="WpfSeaTest.ProfileW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSeaTest"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="SeaBattle" Height="400" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.46*"/>
+            <ColumnDefinition Width="0.54*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0" VerticalAlignment="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Text="Временной промежуток" FontSize="15" HorizontalAlignment="Center"/>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <DatePicker Grid.Column="0" FontSize="14" VerticalAlignment="Bottom" x:Name="DPStart" materialDesign:HintAssist.Hint="Начало" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" SelectedDateChanged="DatePicker_SelectedDateChanged" Margin="10 0"/>
+                        <DatePicker Grid.Column="1" FontSize="14" VerticalAlignment="Bottom" x:Name="DPEnd" materialDesign:HintAssist.Hint="Конец" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" SelectedDateChanged="DatePicker_SelectedDateChanged" Margin="10 0"/>
+                    </Grid>
+                </Grid>
+
+                <Grid Grid.Row="1" VerticalAlignment="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Text="Тип игры:" FontSize="15" HorizontalAlignment="Center" Margin="0 0 0 5"/>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <CheckBox Grid.Column="0" x:Name="CBSolo" Content="Одиночный" Click="CheckBox_Click" IsChecked="True" HorizontalAlignment="Center" FontSize="14" Padding="1"/>
+                        <CheckBox Grid.Column="1" x:Name="CBDuo" Content="Двойной" Click="CheckBox_Click" IsChecked="True" HorizontalAlignment="Center" FontSize="14" Padding="1"/>
+                        <CheckBox Grid.Column="2" x:Name="CBOnline" Content="Сетевой" Click="CheckBox_Click" IsChecked="True" HorizontalAlignment="Center" FontSize="14" Padding="1"/>
+                    </Grid>
+                </Grid>
+
+                <Grid Grid.Row="2" VerticalAlignment="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Text="Результат игры:" FontSize="15" HorizontalAlignment="Center" Margin="0 0 0 5"/>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <CheckBox Grid.Column="0" x:Name="CBVictory" Content="Победа" Click="CheckBox_Click" IsChecked="True" HorizontalAlignment="Center" FontSize="14" Padding="1"/>
+                        <CheckBox Grid.Column="1" x:Name="CBDefeat" Content="Поражение" Click="CheckBox_Click" IsChecked="True" HorizontalAlignment="Center" FontSize="14" Padding="1"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Row="0" Grid.Column="0" x:Name="BLeader" Content="Таблица лидеров" Click="BLeader_Click" Margin="20 10 10 10"/>
+                <Button Grid.Row="1" Grid.Column="0" x:Name="BExit" Content="Выход" Click="BExit_Click" Margin="20 10 10 10"/>
+                <Button Grid.Row="0" Grid.Column="1" x:Name="BAll" Content="Узнать всё" Click="BAll_Click" Margin="10 10 20 10"/>
+                <Button Grid.Row="1" Grid.Column="1" x:Name="BOne" Content="Узнать конкретно" Click="BOne_Click" Margin="10 10 20 10"/>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <DataGrid x:Name="DGShow" SelectionMode="Single" IsReadOnly="True"/>
+        </Grid>
+        
+    </Grid>
+</Window>

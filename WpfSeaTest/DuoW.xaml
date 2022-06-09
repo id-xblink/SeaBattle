@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfSeaTest.DuoW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSeaTest"
+        mc:Ignorable="d"
+        Title="SeaBattle" Height="400" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Width="330" Height="330" x:Name="GLeft" Tag="20"/>
+
+        <Grid Grid.Column="1" Width="330" Height="330" x:Name="GRight" Tag="20"/>
+    </Grid>
+</Window>

@@ -1,0 +1,165 @@
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\bin\Debug\WpfSeaTest.exe.config
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\bin\Debug\WpfSeaTest.exe
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\bin\Debug\WpfSeaTest.pdb
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csprojAssemblyReference.cache
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\MainWindow.g.cs
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\App.g.cs
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest_MarkupCompile.cache
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest_MarkupCompile.lref
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\MainWindow.baml
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.g.resources
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.Properties.Resources.resources
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.GenerateResource.cache
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.exe
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.pdb
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\MenuW.g.cs
+C:\Users\Maus-2001\source\repos\WpfSeaTest\WpfSeaTest\obj\Debug\MenuW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csprojAssemblyReference.cache
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\MenuW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\App.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\MenuW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.GenerateResource.cache
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.CoreCompileInputs.cache
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\CreateAreaW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\CreateAreaW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\DuoW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\SoloW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\DuoW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\SoloW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\WpfSeaTest.exe.config
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\WpfSeaTest.exe
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\WpfSeaTest.pdb
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\CreateAreaW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\DuoW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\LexaW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\MenuW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\SoloW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\App.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest_MarkupCompile.cache
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest_MarkupCompile.lref
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\CreateAreaW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\DuoW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\LexaW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\MenuW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\SoloW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.g.resources
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.Properties.Resources.resources
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.GenerateResource.cache
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.exe
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.pdb
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\OnlineW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\OnlineW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignColors.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\MySql.Data.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\Renci.SshNet.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\Google.Protobuf.xml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\MySql.Data.xml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\Renci.SshNet.xml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\LoginW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\App.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\LoginW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.CopyComplete
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\ProfileW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\ProfileW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\LeaderW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\LeaderW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\HelpAllW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\HelpOneW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\HelpAllW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\HelpOneW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignColors.dll
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\MySql.Data.dll
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\Renci.SshNet.dll
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\Google.Protobuf.xml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\MySql.Data.xml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\bin\Debug\Renci.SshNet.xml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\AAAW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\HelpAllW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\HelpOneW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\LeaderW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\LoginW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\OnlineW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\ProfileW.g.cs
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\App.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\AAAW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\HelpAllW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\HelpOneW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\LeaderW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\LoginW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\OnlineW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\ProfileW.baml
+C:\Users\Maus-2001\Desktop\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.CopyComplete
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\SeaBattle.exe.config
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\SeaBattle.exe
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Debug\SeaBattle.pdb
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle_MarkupCompile.cache
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle_MarkupCompile.lref
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle.g.resources
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle.exe
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle.pdb
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\SeaBattle.exe.config
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\SeaBattle.exe
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\SeaBattle.pdb
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignColors.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\MySql.Data.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\Renci.SshNet.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\Google.Protobuf.xml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\MySql.Data.xml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Debug\Renci.SshNet.xml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\HelpAllW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\HelpOneW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\LeaderW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\LoginW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\CreateAreaW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\DuoW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\MenuW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\OnlineW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\ProfileW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\SoloW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\App.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle_MarkupCompile.cache
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle_MarkupCompile.lref
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\App.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\HelpAllW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\HelpOneW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\LeaderW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\LoginW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\CreateAreaW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\DuoW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\MenuW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\OnlineW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\ProfileW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\SoloW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle.g.resources
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.GenerateResource.cache
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\WpfSeaTest.csproj.CopyComplete
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle.exe
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Debug\SeaBattle.pdb

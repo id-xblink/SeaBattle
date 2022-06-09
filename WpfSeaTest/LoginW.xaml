@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfSeaTest.LoginW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSeaTest"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="SeaBattle" Height="450" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid Margin="25">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Label Margin="0 25 0 0" Grid.Row="0" x:Name="TBlockSwap" VerticalAlignment="Center" HorizontalAlignment="Center" Tag="True" Content="Авторизация" FontSize="22" FontWeight="Bold" PreviewMouseLeftButtonUp="TBlockSwap_PreviewMouseLeftButtonUp"/>
+
+            <StackPanel Grid.Row="1" Margin="5 0" VerticalAlignment="Center">
+                <TextBox x:Name="TBLogin" materialDesign:HintAssist.Hint="Логин" FontSize="14" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="0 10" PreviewTextInput="Field_PreviewTextInput"/>
+                <PasswordBox x:Name="PBPass" materialDesign:HintAssist.Hint="Пароль" FontSize="14" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Margin="0 10" PreviewTextInput="Field_PreviewTextInput"/>
+                <PasswordBox x:Name="PBRepPass" Visibility="Collapsed" materialDesign:HintAssist.Hint="Подтвердить" FontSize="14" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Margin="0 10" PreviewTextInput="Field_PreviewTextInput"/>
+            </StackPanel>
+
+            <Button Grid.Row="2" x:Name="BGo" Content="Продолжить" Click="BGo_Click"/>
+        </Grid>
+    </Grid>
+</Window>

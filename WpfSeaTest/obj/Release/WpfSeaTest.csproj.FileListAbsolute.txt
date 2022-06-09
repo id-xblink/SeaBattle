@@ -1,0 +1,95 @@
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\SeaBattle.exe.config
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\SeaBattle.exe
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\SeaBattle.pdb
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\Google.Protobuf.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignColors.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\MySql.Data.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\Renci.SshNet.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\Google.Protobuf.xml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignColors.pdb
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\MySql.Data.xml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\bin\Release\Renci.SshNet.xml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\HelpAllW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\HelpOneW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\LeaderW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\LoginW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\CreateAreaW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\DuoW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\MenuW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\OnlineW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\ProfileW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\SoloW.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\App.g.cs
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle_MarkupCompile.cache
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle_MarkupCompile.lref
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\App.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\HelpAllW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\HelpOneW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\LeaderW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\LoginW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\CreateAreaW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\DuoW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\MenuW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\OnlineW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\ProfileW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\SoloW.baml
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle.g.resources
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle.Properties.Resources.resources
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\WpfSeaTest.csproj.GenerateResource.cache
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\WpfSeaTest.csproj.CoreCompileInputs.cache
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\WpfSeaTest.csproj.CopyComplete
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle.exe
+C:\Users\Инвокер\Desktop\Хочу всё сделать, надеюсь смогу\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle.pdb
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\SeaBattle.exe.config
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\SeaBattle.exe
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\SeaBattle.pdb
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\Google.Protobuf.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignColors.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\MySql.Data.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\Renci.SshNet.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\Google.Protobuf.xml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignColors.pdb
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\MySql.Data.xml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\bin\Release\Renci.SshNet.xml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\WpfSeaTest.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\HelpAllW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\HelpOneW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\LeaderW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\LoginW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\CreateAreaW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\DuoW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\MenuW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\OnlineW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\ProfileW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\SoloW.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\App.g.cs
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle_MarkupCompile.cache
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle_MarkupCompile.lref
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\App.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\HelpAllW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\HelpOneW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\LeaderW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\LoginW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\CreateAreaW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\DuoW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\MenuW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\OnlineW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\ProfileW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\SoloW.baml
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle.g.resources
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle.Properties.Resources.resources
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\WpfSeaTest.csproj.GenerateResource.cache
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\WpfSeaTest.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\WpfSeaTest.csproj.CopyComplete
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle.exe
+C:\Users\Maus-2001\Desktop\Практика 4-2\Программа\WpfSeaTest\WpfSeaTest\obj\Release\SeaBattle.pdb
